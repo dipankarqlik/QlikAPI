@@ -1,0 +1,14 @@
+.qv-object-piescat div.qv-object-content-container {
+	font: 10px sans-serif;
+}
+
+.qv-object-piescat .axis path,
+.qv-object-piescat .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.qv-object-piescat .dot {
+  stroke: #000;
+}

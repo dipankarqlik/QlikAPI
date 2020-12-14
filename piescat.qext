@@ -1,0 +1,9 @@
+{
+	"name" : "Pie scatter chart",
+	"description" : "A scatter plot that displays points as pie",
+	"icon" : "table",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "table",
+	"author": "Dip"
+}
